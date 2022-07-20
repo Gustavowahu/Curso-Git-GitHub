@@ -14,7 +14,7 @@
   λ git config --global user.name "Alexander"
 
   C:\proyecto1(master)
-  λ git config --global user.email "capuli.2015@gmail.com" 
+  λ git config --global user.email "roel.alexander@gmail.com" 
   ~~~
 
 - Comprovando la configuración.
@@ -22,7 +22,7 @@
   Muestra todas las propiedades que Git ha configurado.
   ~~~
   user.name=Alexander
-  user.email=capuli.2015@gmail.com
+  user.email=roel.alexander@gmail
   core.repositoryformatversion=0
   core.filemode=false
   ~~~
