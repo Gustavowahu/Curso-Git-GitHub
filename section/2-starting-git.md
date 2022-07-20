@@ -1,7 +1,7 @@
 # Comenzamos con Git.
 1. [Configurando Git por primera vez](#Configurando-Git-por-primera-vez)
-2. [Crear un repositorio en Git](#Crear-repositorio-en-Git)
-3. [Historial de confirmaciones](#Historial-de-confiramciones)
+2. [Crear repositorio de Git](#Crear-repositorio-de-Git)
+3. [Historial de confirmaciones](#Historial-de-confirmaciones)
 4. [Volver a una versión anterior](#Volver-a-una-versión-anterior)
 ---
 
